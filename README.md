@@ -5,7 +5,7 @@
 ## Mermaid
 ### VSCode
 #### 拡張機能
-- [Markdown Preview Mermaid Support](Mermaid/Markdown "Preview Mermaid Support.md")
+- [Markdown Preview Mermaid Support](Mermaid/Markdown\%20Preview\%20Mermaid\%20Support.md)
 
 ## Excel
 - [関数](Excel/関数.md)
