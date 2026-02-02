@@ -3,6 +3,7 @@
 - [基本](Markdown/基本.md)
 
 ## Mermaid
+- [基本](Mermaid/基本.md)
 ### VSCode
 #### 拡張機能
 - [Markdown Preview Mermaid Support(\%20)](Mermaid/Markdown\%20Preview\%20Mermaid\%20Support.md)
